@@ -1,0 +1,12 @@
+E:\Labfiles\Lab 1\Ex2\Starter\GAZ.CSCourse2022\GAZ.CSCourse2022.WpfApplication\bin\Debug\GAZ.CSCourse2022.WpfApplication.exe
+E:\Labfiles\Lab 1\Ex2\Starter\GAZ.CSCourse2022\GAZ.CSCourse2022.WpfApplication\bin\Debug\GAZ.CSCourse2022.WpfApplication.pdb
+E:\Labfiles\Lab 1\Ex2\Starter\GAZ.CSCourse2022\GAZ.CSCourse2022.WpfApplication\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 1\Ex2\Starter\GAZ.CSCourse2022\GAZ.CSCourse2022.WpfApplication\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 1\Ex2\Starter\GAZ.CSCourse2022\GAZ.CSCourse2022.WpfApplication\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 1\Ex2\Starter\GAZ.CSCourse2022\GAZ.CSCourse2022.WpfApplication\obj\x86\Debug\GAZ.CSCourse2022.WpfApplication_MarkupCompile.cache
+E:\Labfiles\Lab 1\Ex2\Starter\GAZ.CSCourse2022\GAZ.CSCourse2022.WpfApplication\obj\x86\Debug\GAZ.CSCourse2022.WpfApplication.g.resources
+E:\Labfiles\Lab 1\Ex2\Starter\GAZ.CSCourse2022\GAZ.CSCourse2022.WpfApplication\obj\x86\Debug\GAZ.CSCourse2022.WpfApplication.Properties.Resources.resources
+E:\Labfiles\Lab 1\Ex2\Starter\GAZ.CSCourse2022\GAZ.CSCourse2022.WpfApplication\obj\x86\Debug\GAZ.CSCourse2022.WpfApplication.csproj.GenerateResource.Cache
+E:\Labfiles\Lab 1\Ex2\Starter\GAZ.CSCourse2022\GAZ.CSCourse2022.WpfApplication\obj\x86\Debug\GAZ.CSCourse2022.WpfApplication.exe
+E:\Labfiles\Lab 1\Ex2\Starter\GAZ.CSCourse2022\GAZ.CSCourse2022.WpfApplication\obj\x86\Debug\GAZ.CSCourse2022.WpfApplication.pdb
+E:\Labfiles\Lab 1\Ex2\Starter\GAZ.CSCourse2022\GAZ.CSCourse2022.WpfApplication\bin\Debug\DataFile.txt

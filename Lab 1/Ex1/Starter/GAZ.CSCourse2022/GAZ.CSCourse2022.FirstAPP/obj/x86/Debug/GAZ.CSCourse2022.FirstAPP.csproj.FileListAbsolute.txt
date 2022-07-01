@@ -1,0 +1,5 @@
+E:\Labfiles\Lab 1\Ex1\Starter\GAZ.CSCourse2022\GAZ.CSCourse2022.FirstAPP\bin\Debug\GAZ.CSCourse2022.FirstAPP.exe
+E:\Labfiles\Lab 1\Ex1\Starter\GAZ.CSCourse2022\GAZ.CSCourse2022.FirstAPP\bin\Debug\GAZ.CSCourse2022.FirstAPP.pdb
+E:\Labfiles\Lab 1\Ex1\Starter\GAZ.CSCourse2022\GAZ.CSCourse2022.FirstAPP\obj\x86\Debug\GAZ.CSCourse2022.FirstAPP.exe
+E:\Labfiles\Lab 1\Ex1\Starter\GAZ.CSCourse2022\GAZ.CSCourse2022.FirstAPP\obj\x86\Debug\GAZ.CSCourse2022.FirstAPP.pdb
+E:\Labfiles\Lab 1\Ex1\Starter\GAZ.CSCourse2022\GAZ.CSCourse2022.FirstAPP\bin\Debug\DataFile.txt

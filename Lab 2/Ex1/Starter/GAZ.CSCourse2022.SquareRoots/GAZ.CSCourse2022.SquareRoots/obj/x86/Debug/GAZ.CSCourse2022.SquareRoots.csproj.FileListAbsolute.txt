@@ -1,0 +1,11 @@
+E:\Labfiles\Lab 2\Ex1\Starter\GAZ.CSCourse2022.SquareRoots\GAZ.CSCourse2022.SquareRoots\bin\Debug\GAZ.CSCourse2022.SquareRoots.exe
+E:\Labfiles\Lab 2\Ex1\Starter\GAZ.CSCourse2022.SquareRoots\GAZ.CSCourse2022.SquareRoots\bin\Debug\GAZ.CSCourse2022.SquareRoots.pdb
+E:\Labfiles\Lab 2\Ex1\Starter\GAZ.CSCourse2022.SquareRoots\GAZ.CSCourse2022.SquareRoots\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 2\Ex1\Starter\GAZ.CSCourse2022.SquareRoots\GAZ.CSCourse2022.SquareRoots\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 2\Ex1\Starter\GAZ.CSCourse2022.SquareRoots\GAZ.CSCourse2022.SquareRoots\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 2\Ex1\Starter\GAZ.CSCourse2022.SquareRoots\GAZ.CSCourse2022.SquareRoots\obj\x86\Debug\GAZ.CSCourse2022.SquareRoots_MarkupCompile.cache
+E:\Labfiles\Lab 2\Ex1\Starter\GAZ.CSCourse2022.SquareRoots\GAZ.CSCourse2022.SquareRoots\obj\x86\Debug\GAZ.CSCourse2022.SquareRoots.g.resources
+E:\Labfiles\Lab 2\Ex1\Starter\GAZ.CSCourse2022.SquareRoots\GAZ.CSCourse2022.SquareRoots\obj\x86\Debug\GAZ.CSCourse2022.SquareRoots.Properties.Resources.resources
+E:\Labfiles\Lab 2\Ex1\Starter\GAZ.CSCourse2022.SquareRoots\GAZ.CSCourse2022.SquareRoots\obj\x86\Debug\GAZ.CSCourse2022.SquareRoots.csproj.GenerateResource.Cache
+E:\Labfiles\Lab 2\Ex1\Starter\GAZ.CSCourse2022.SquareRoots\GAZ.CSCourse2022.SquareRoots\obj\x86\Debug\GAZ.CSCourse2022.SquareRoots.exe
+E:\Labfiles\Lab 2\Ex1\Starter\GAZ.CSCourse2022.SquareRoots\GAZ.CSCourse2022.SquareRoots\obj\x86\Debug\GAZ.CSCourse2022.SquareRoots.pdb
